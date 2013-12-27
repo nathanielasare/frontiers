@@ -14,7 +14,7 @@
     <!-- Stylesheets -->
     <?php
 
-        echo $this->Html->css('bootstrap.css');
+        echo $this->Html->css('bootstrap');
         echo $this->Html->css('font-awesome');
         echo $this->Html->css('jquery-ui-1.9.2.custom.min');
         echo $this->Html->css('fullcalendar');
@@ -41,16 +41,16 @@
 </head>
 
 <body>
-<header>
+<header class="custmain" style="height: 28px;">
     <div class="navbar navbar-fixed-top bs-docs-nav" role="banner">
 
-        <div class="container">
+        <div class="container" id="container_addon" style="padding: 14px">
             <!-- Menu button for smallar screens -->
             <div class="navbar-header">
                 <button class="navbar-toggle btn-navbar" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse"><span>Menu</span></button>
                 <a href="#" class="pull-left menubutton hidden-xs"><i class="fa fa-bars"></i></a>
                 <!-- Site name for smallar screens -->
-                <a href="index.html" class="navbar-brand"><span class="bold">FRONTIERS</span></a>
+                <a href="<?php echo $this->Html->url(array('controller'=>'pages','action'=>'home')); ?>" class="navbar-brand"><span class="bold">FRONTIERS</span></a>
             </div>
 
             <!-- Navigation starts -->
@@ -58,18 +58,18 @@
 
                 <!-- Links -->
                 <ul class="nav navbar-nav pull-right">
-                    <li class="dropdown pull-right user-data">
+                    <!--<li class="dropdown pull-right user-data">
                         <a data-toggle="dropdown" class="dropdown-toggle" href="#">
-                            <img src="img/user1.png"> John <span class="bold">Doe</span> <b class="caret"></b>
+                            <?php  echo $this->Html->image('user1.png');?> John <span class="bold">Doe</span> <b class="caret"></b>
                         </a>
 
-                        <!-- Dropdown menu -->
+                        <!-- Dropdown menu --
                         <ul class="dropdown-menu">
                             <li><a href="#"><i class="fa fa-user"></i> Profile</a></li>
                             <li><a href="#"><i class="fa fa-cogs"></i> Settings</a></li>
                             <li><a href="login.html"><i class="fa fa-key"></i> Logout</a></li>
                         </ul>
-                    </li>
+                    </li>-->
                     <!-- Upload to server link. Class "dropdown-big" creates big dropdown -->
                     <li class="dropdown dropdown-big leftonmobile">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-cloud-upload"></i></a>
@@ -253,11 +253,16 @@
             <button class="btn search-button" type="submit"><i class="fa fa-search"></i></button>
         </div>
     </form>-->
+    <div style="height: 65px;">
+        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+            <?php echo $this->Html->image('user1.png');?> John <span class="bold">Doe</span> <b class="caret"></b>
+        </a>
+    </div>
     <!--- Sidebar navigation -->
     <!-- If the main navigation has sub navigation, then add the class "has_sub" to "li" of main navigation. -->
     <ul id="nav">
         <!-- Main menu with font awesome icon -->
-        <li><a href="index.html" class="open"><i class="fa fa-home"></i> <span>Performance Summary</span></a></li>
+        <li><a href="<?php echo $this->Html->url(array('controller'=>'pages','action'=>'home')); ?>" class="open"><i class="fa fa-home"></i> <span>Performance Summary</span></a></li>
         <!--<li class="has_sub"><a href="#"><i class="fa fa-list-alt"></i> <span>Widgets</span> <span class="pull-right"><i class="fa fa-chevron-left"></i></span></a>
             <ul>
                 <li><a href="widgets1.html">Widgets #1</a></li>
@@ -355,8 +360,55 @@
 <span class="totop"><a href="#"><i class="fa fa-chevron-up"></i></a></span>
 
 <!-- JS -->
+
+      
+<?php echo $this->Html->script('bootstrap'); ?>
+<?php echo $this->Html->script('jquery'); ?> <!-- jQuery -->
+<?php echo $this->Html->script('jquery-ui-1.9.2.custom.min'); ?> <!-- jQuery UI -->
+<?php echo $this->Html->script('fullcalendar.min'); ?> <!-- Full Google Calendar - Calendar -->
+<?php echo $this->Html->script('jquery.rateit.min'); ?> <!-- RateIt - Star rating -->
+<?php echo $this->Html->script('jquery.prettyPhoto'); ?> <!-- prettyPhoto -->
+
+<?php echo $this->Html->script('jquery.uniform.min.js'); ?>  <!-- jQuery Uniform -->
+<!-- Morris JS -->
+<?php echo $this->Html->script('raphael-min'); ?>
+<?php echo $this->Html->script('morris.min'); ?>
+
+<!-- jQuery Flot -->
+<?php echo $this->Html->script('excanvas.min'); ?>
+<?php echo $this->Html->script('jquery.flot'); ?>
+<?php echo $this->Html->script('jquery.flot.resize'); ?>
+<?php echo $this->Html->script('jquery.flot.pie'); ?>
+<?php echo $this->Html->script('jquery.flot.stack'); ?>
+
+<!-- jQuery Notification - Noty -->
+<?php echo $this->Html->script('jquery.noty'); ?> <!-- jQuery Notify -->
+<?php echo $this->Html->script('themes/default'); ?> <!-- jQuery Notify -->
+<?php echo $this->Html->script('layouts/bottom'); ?> <!-- jQuery Notify -->
+<?php echo $this->Html->script('layouts/topRight'); ?> <!-- jQuery Notify -->
+<?php echo $this->Html->script('layouts/top'); ?> <!-- jQuery Notify -->
+<!-- jQuery Notification ends -->
+
+<!-- Daterangepicker -->
+<?php echo $this->Html->script('moment.min'); ?>
+<?php echo $this->Html->script('daterangepicker'); ?>
+
+<?php echo $this->Html->script('sparklines'); ?> <!-- Sparklines -->
+<?php echo $this->Html->script('jquery.gritter.min'); ?> <!-- jQuery Gritter -->
+<?php echo $this->Html->script('jquery.cleditor.min'); ?> <!-- CLEditor -->
+<?php echo $this->Html->script('bootstrap-datetimepicker.min'); ?> <!-- Date picker -->
+<?php echo $this->Html->script('jquery.uniform.min'); ?> <!-- jQuery Uniform -->
+<?php echo $this->Html->script('jquery.slimscroll.min'); ?> <!-- jQuery SlimScroll -->
+<?php echo $this->Html->script('bootstrap-switch.min'); ?> <!-- Bootstrap Toggle -->
+<?php echo $this->Html->script('jquery.maskedinput.min'); ?> <!-- jQuery Masked Input -->
+<?php echo $this->Html->script('dropzone'); ?> <!-- jQuery Dropzone -->
+<?php echo $this->Html->script('filter'); ?> <!-- Filter for support page -->
+<?php echo $this->Html->script('custom'); ?> <!-- Custom codes -->
+<?php echo $this->Html->script('charts'); ?> <!-- Charts & Graphs -->
+
+<?php echo $this->Html->script('index'); ?> <!-- Index Javascripts -->
+<?php /*
 <script src="js/jquery.js"></script> <!-- jQuery -->
-<script src="js/bootstrap.js"></script> <!-- Bootstrap -->
 <script src="js/jquery-ui-1.9.2.custom.min.js"></script> <!-- jQuery UI -->
 <script src="js/fullcalendar.min.js"></script> <!-- Full Google Calendar - Calendar -->
 <script src="js/jquery.rateit.min.js"></script> <!-- RateIt - Star rating -->
@@ -399,5 +451,7 @@
 <script src="js/charts.js"></script> <!-- Charts & Graphs -->
 
 <script src="js/index.js"></script> <!-- Index Javascripts -->
+ * *
+ */?>
 </body>
 </html>

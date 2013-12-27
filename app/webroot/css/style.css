@@ -16,6 +16,47 @@ h1,h2,h3,h4,h5,h6{
   font-family:'Open Sans',sans-serif;
 }
 
+/*************New Styles**************/
+
+#stats1{
+    background: #f56954;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    padding: 10px;
+    width: 22.8%;
+    height: 140px;
+    margin: 0px 32px 15px 0px;
+    color: #FFF;
+}
+#stats2{
+    background: #00a65a;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    padding: 10px;
+    width: 22.8%;
+    height: 140px;
+    margin: 0px 32px 15px 0px;
+}
+#stats3{
+     background: #00c0ef;
+     border-radius: 5px;
+     -moz-border-radius: 5px;
+     padding: 10px;
+     width: 22.8%;
+     height: 140px;
+     margin: 0px 32px 15px 0px;
+ }
+#stats4{
+      background: #0073b7;
+      border-radius: 5px;
+      -moz-border-radius: 5px;
+      padding: 10px;
+      width: 22.8%;
+      height: 140px;
+}
+/*************New Styles**************/
+
+
 h2{
 	font-size: 30px;
 	line-height: 40px;
@@ -1215,7 +1256,7 @@ header .nav.nav-pills > li > a:hover, header .nav.nav-pills > li > a:focus{
   min-height:50px;
   box-shadow:0 1px 1px rgba(0, 0, 0, 0.05);
   background: #fff; 
-  //background: #fafafa url('../img/cream.png') repeat;
+  background: #fafafa url('../img/cream.png') repeat;
 }
 
 .widget p{
@@ -2142,4 +2183,13 @@ footer .copy{
 		padding: 0px;
 		display: none;
 	}
+
+    .custmain{
+        height: 150px;
+    }
+
+    #container_addon{
+        padding: 12px 0px 8px 0px;
+    }
+
 }

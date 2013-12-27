@@ -33,7 +33,7 @@
 <div class="row">
     <div class="col-md-12">
         <div class="row">
-            <div class="row">
+            <!--<div class="row">
                 <div class="col-sm-3">
 
                     <div class="tile-stats tile-red">
@@ -81,36 +81,40 @@
                     </div>
 
                 </div>
-            </div>
-            <!--<div class="col-md-8">
-                 List starts --
+            </div>-->
+            <div class="col-md-12">
+                 <!--List starts -->
                 <ul class="today-datas">
-                    <!-- List #1 --
-                    <li>
+                    <!-- List #1 -->
+                    <li id="stats1" class="col-sm-2">
                         <!-- Graph --
                         <div><span id="todayspark1" class="spark"></span></div>
                         <!-- Text --
-                        <div class="datas-text">12,000 visitors/day</div>
+                        <div class="datas-text">12,000 visitors/day</div>-->
+
+                        <div class="mcol-left">
+                            <div id="pie-chart4"></div>
+                        </div>
+                        <div class="mcol-right">
+                            <!-- Number of visitors -->
+                            <p><a href="#">7000</a> <em>visits</em></p>
+                        </div>
                     </li>
-                    <li>
+                    <li id="stats2" class="col-sm-2">
                         <div><span id="todayspark2" class="spark"></span></div>
                         <div class="datas-text">30,000 Pageviews</div>
                     </li>
-                    <li>
+                    <li id="stats3" class="col-sm-2">
                         <div><span id="todayspark3" class="spark"></span></div>
                         <div class="datas-text">15.66% Bounce Rate</div>
                     </li>
-                    <li>
+                    <li id="stats4" class="col-sm-2">
                         <div><span id="todayspark4" class="spark"></span></div>
                         <div class="datas-text">$12,000 Revenue/Day</div>
                     </li>
-                    <li>
-                        <div><span id="todayspark5" class="spark"></span></div>
-                        <div class="datas-text">15,000000 visitors till date</div>
-                    </li>
                 </ul>
-            </div>-->
-            <!--<div class="col-md-4 pill-container">
+            </div>
+            <!--<div class="col-md-4 pill-container" style="border: 1px #000 solid;">
                 <div class="header-data">
 
                     <!-- Traffic data --
@@ -137,20 +141,8 @@
                         <div class="clearfix"></div>
                     </div>
 
-                    <!-- revenue data --
-                    <div class="hdata">
-                        <div class="mcol-left">
-                            <div id="pie-chart6"></div>
-                        </div>
-                        <div class="mcol-right">
-                            <!-- Number of visitors --
-                            <p><a href="#">5000</a><em>orders</em></p>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-
                 </div>
-            </div> -->
+            </div>-->
         </div>
     </div>
 </div>
@@ -391,7 +383,7 @@
                     <li class="by-me">
                         <!-- Use the class "pull-left" in avatar -->
                         <div class="avatar pull-left">
-                            <img src="img/user.jpg" alt=""/>
+                            <?php  echo $this->Html->image('user.jpg');?>
                         </div>
 
                         <div class="chat-content">
@@ -406,7 +398,7 @@
                     <li class="by-other">
                         <!-- Use the class "pull-right" in avatar -->
                         <div class="avatar pull-right">
-                            <img src="img/user22.png" alt=""/>
+                            <?php  echo $this->Html->image('user22.png');?>
                         </div>
 
                         <div class="chat-content">
@@ -419,7 +411,7 @@
 
                     <li class="by-me">
                         <div class="avatar pull-left">
-                            <img src="img/user.jpg" alt=""/>
+                            <?php  echo $this->Html->image('user.jpg');?>
                         </div>
 
                         <div class="chat-content">
@@ -432,7 +424,7 @@
                     <li class="by-other">
                         <!-- Use the class "pull-right" in avatar -->
                         <div class="avatar pull-right">
-                            <img src="img/user22.png" alt=""/>
+                            <?php  echo $this->Html->image('user22.png');?>
                         </div>
 
                         <div class="chat-content">
@@ -526,27 +518,27 @@
                     <th>Visits</th>
                 </tr>
                 <tr>
-                    <td><img src="img/icons/chrome.png" alt="" />
+                    <td><?php  echo $this->Html->image('icons/chrome.png');?>
                     <td>Google Chrome</td>
                     <td>3,005</td>
                 </tr>
                 <tr>
-                    <td><img src="img/icons/firefox.png" alt="" />
+                    <td><?php  echo $this->Html->image('icons/firefox.png');?>
                     <td>Mozilla Firefox</td>
                     <td>2,505</td>
                 </tr>
                 <tr>
-                    <td><img src="img/icons/ie.png" alt="" />
+                    <td><?php  echo $this->Html->image('icons/ie.png');?>
                     <td>Internet Explorer</td>
                     <td>1,405</td>
                 </tr>
                 <tr>
-                    <td><img src="img/icons/opera.png" alt="" />
+                    <td><?php  echo $this->Html->image('icons/opera.png');?>
                     <td>Opera</td>
                     <td>4,005</td>
                 </tr>
                 <tr>
-                    <td><img src="img/icons/safari.png" alt="" />
+                    <td><?php  echo $this->Html->image('icons/safari.png');?>
                     <td>Safari</td>
                     <td>505</td>
                 </tr>
