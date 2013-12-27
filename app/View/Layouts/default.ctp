@@ -14,7 +14,7 @@
     <!-- Stylesheets -->
     <?php
 
-        echo $this->Html->css('bootstrap');
+        echo $this->Html->css('bootstrap.css');
         echo $this->Html->css('font-awesome');
         echo $this->Html->css('jquery-ui-1.9.2.custom.min');
         echo $this->Html->css('fullcalendar');
