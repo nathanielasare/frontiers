@@ -361,7 +361,6 @@
 
 <!-- JS -->
 
-      
 <?php echo $this->Html->script('bootstrap'); ?>
 <?php echo $this->Html->script('jquery'); ?> <!-- jQuery -->
 <?php echo $this->Html->script('jquery-ui-1.9.2.custom.min'); ?> <!-- jQuery UI -->
