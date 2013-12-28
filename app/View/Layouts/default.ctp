@@ -268,7 +268,7 @@
             </ul>
         </li>-->
         <li><a href="#"><i class="fa fa-bar-chart-o"></i> <span>Recieption</span></a></li>
-        <li><a href="#"><i class="fa fa-table"></i> <span>Declaration</span></a></li>
+        <li><a href=""><i class="fa fa-table"></i> <span>Declaration</span></a></li>
         <li><a href="#"><i class="fa fa-tasks"></i> <span>Classification</span></a></li>
         <li><a href="#"><i class="fa fa-magic"></i> <span>Valuation</span></a></li>
         <li><a href="#"><i class="fa fa-edit"></i> <span>Quality Assurance</span></a></li>

@@ -678,6 +678,7 @@
         </div>
 
     </div>
+
     <div class="col-md-6 portlets">
         <div class="widget">
             <div class="widget-head">
