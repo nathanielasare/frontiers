@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <!-- Title and other stuffs -->
-    <title>Dashboard - MoodStrap</title>
+    <title>FRONTIERS - Destination Inspection System</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="keywords" content="">
@@ -58,18 +58,17 @@
 
                 <!-- Links -->
                 <ul class="nav navbar-nav pull-right">
-                    <!--<li class="dropdown pull-right user-data">
+                    <li class="dropdown pull-right user-data">
                         <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                             <?php  echo $this->Html->image('user1.png');?> John <span class="bold">Doe</span> <b class="caret"></b>
                         </a>
-
-                        <!-- Dropdown menu --
+                        <!-- Dropdown menu -->
                         <ul class="dropdown-menu">
                             <li><a href="#"><i class="fa fa-user"></i> Profile</a></li>
                             <li><a href="#"><i class="fa fa-cogs"></i> Settings</a></li>
                             <li><a href="login.html"><i class="fa fa-key"></i> Logout</a></li>
                         </ul>
-                    </li>-->
+                    </li>
                     <!-- Upload to server link. Class "dropdown-big" creates big dropdown -->
                     <li class="dropdown dropdown-big leftonmobile">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-cloud-upload"></i></a>
@@ -253,10 +252,8 @@
             <button class="btn search-button" type="submit"><i class="fa fa-search"></i></button>
         </div>
     </form>-->
-    <div style="height: 65px;">
-        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
-            <?php echo $this->Html->image('user1.png');?> John <span class="bold">Doe</span> <b class="caret"></b>
-        </a>
+    <div style="padding: 10px 10px 10px 15px;">
+        <strong id="headerdisc">Destination Inspection System (<span>DIS</span> <span>Version 1.0</span>)</strong>
     </div>
     <!--- Sidebar navigation -->
     <!-- If the main navigation has sub navigation, then add the class "has_sub" to "li" of main navigation. -->
@@ -406,51 +403,50 @@
 <?php echo $this->Html->script('charts'); ?> <!-- Charts & Graphs -->
 
 <?php echo $this->Html->script('index'); ?> <!-- Index Javascripts -->
-<?php /*
-<script src="js/jquery.js"></script> <!-- jQuery -->
-<script src="js/jquery-ui-1.9.2.custom.min.js"></script> <!-- jQuery UI -->
-<script src="js/fullcalendar.min.js"></script> <!-- Full Google Calendar - Calendar -->
-<script src="js/jquery.rateit.min.js"></script> <!-- RateIt - Star rating -->
-<script src="js/jquery.prettyPhoto.js"></script> <!-- prettyPhoto -->
+<!--
+<script src="js/jquery.js"></script> <!-- jQuery --
+<script src="js/jquery-ui-1.9.2.custom.min.js"></script> <!-- jQuery UI --
+<script src="js/fullcalendar.min.js"></script> <!-- Full Google Calendar - Calendar --
+<script src="js/jquery.rateit.min.js"></script> <!-- RateIt - Star rating --
+<script src="js/jquery.prettyPhoto.js"></script> <!-- prettyPhoto --
 
-<!-- Morris JS -->
+<!-- Morris JS --
 <script src="js/raphael-min.js"></script>
 <script src="js/morris.min.js"></script>
 
-<!-- jQuery Flot -->
+<!-- jQuery Flot --
 <script src="js/excanvas.min.js"></script>
 <script src="js/jquery.flot.js"></script>
 <script src="js/jquery.flot.resize.js"></script>
 <script src="js/jquery.flot.pie.js"></script>
 <script src="js/jquery.flot.stack.js"></script>
 
-<!-- jQuery Notification - Noty -->
-<script src="js/jquery.noty.js"></script> <!-- jQuery Notify -->
-<script src="js/themes/default.js"></script> <!-- jQuery Notify -->
-<script src="js/layouts/bottom.js"></script> <!-- jQuery Notify -->
-<script src="js/layouts/topRight.js"></script> <!-- jQuery Notify -->
-<script src="js/layouts/top.js"></script> <!-- jQuery Notify -->
-<!-- jQuery Notification ends -->
+<!-- jQuery Notification - Noty --
+<script src="js/jquery.noty.js"></script> <!-- jQuery Notify --
+<script src="js/themes/default.js"></script> <!-- jQuery Notify --
+<script src="js/layouts/bottom.js"></script> <!-- jQuery Notify --
+<script src="js/layouts/topRight.js"></script> <!-- jQuery Notify --
+<script src="js/layouts/top.js"></script> <!-- jQuery Notify --
+<!-- jQuery Notification ends --
 
-<!-- Daterangepicker -->
+<!-- Daterangepicker --
 <script src="js/moment.min.js"></script>
 <script src="js/daterangepicker.js"></script>
 
-<script src="js/sparklines.js"></script> <!-- Sparklines -->
-<script src="js/jquery.gritter.min.js"></script> <!-- jQuery Gritter -->
-<script src="js/jquery.cleditor.min.js"></script> <!-- CLEditor -->
-<script src="js/bootstrap-datetimepicker.min.js"></script> <!-- Date picker -->
-<script src="js/jquery.uniform.min.js"></script> <!-- jQuery Uniform -->
-<script src="js/jquery.slimscroll.min.js"></script> <!-- jQuery SlimScroll -->
-<script src="js/bootstrap-switch.min.js"></script> <!-- Bootstrap Toggle -->
-<script src="js/jquery.maskedinput.min.js"></script> <!-- jQuery Masked Input -->
-<script src="js/dropzone.js"></script> <!-- jQuery Dropzone -->
-<script src="js/filter.js"></script> <!-- Filter for support page -->
-<script src="js/custom.js"></script> <!-- Custom codes -->
-<script src="js/charts.js"></script> <!-- Charts & Graphs -->
+<script src="js/sparklines.js"></script> <!-- Sparklines --
+<script src="js/jquery.gritter.min.js"></script> <!-- jQuery Gritter --
+<script src="js/jquery.cleditor.min.js"></script> <!-- CLEditor --
+<script src="js/bootstrap-datetimepicker.min.js"></script> <!-- Date picker --
+<script src="js/jquery.uniform.min.js"></script> <!-- jQuery Uniform --
+<script src="js/jquery.slimscroll.min.js"></script> <!-- jQuery SlimScroll --
+<script src="js/bootstrap-switch.min.js"></script> <!-- Bootstrap Toggle --
+<script src="js/jquery.maskedinput.min.js"></script> <!-- jQuery Masked Input --
+<script src="js/dropzone.js"></script> <!-- jQuery Dropzone --
+<script src="js/filter.js"></script> <!-- Filter for support page --
+<script src="js/custom.js"></script> <!-- Custom codes --
+<script src="js/charts.js"></script> <!-- Charts & Graphs --
 
 <script src="js/index.js"></script> <!-- Index Javascripts -->
- * *
- */?>
+
 </body>
 </html>

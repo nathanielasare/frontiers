@@ -151,7 +151,7 @@ $(function () {
     
     $("#pie-chart4").sparkline([55, 100, 120, 110], {
       type: 'pie',
-      height: 70,
+      height: 110,
       sliceColors: ['#c5ced6','#F07C6C','#59646e','#C0CA55','#384b5e','#999999']
     });
     

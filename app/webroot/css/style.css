@@ -23,9 +23,9 @@ h1,h2,h3,h4,h5,h6{
     border-radius: 5px;
     -moz-border-radius: 5px;
     padding: 10px;
-    width: 22.8%;
+    width: 22.6%;
     height: 140px;
-    margin: 0px 32px 15px 0px;
+    margin: 0px 34px 15px 0px;
     color: #FFF;
 }
 #stats2{
@@ -33,27 +33,43 @@ h1,h2,h3,h4,h5,h6{
     border-radius: 5px;
     -moz-border-radius: 5px;
     padding: 10px;
-    width: 22.8%;
+    width: 22.6%;
     height: 140px;
-    margin: 0px 32px 15px 0px;
+    margin: 0px 34px 15px 0px;
 }
 #stats3{
      background: #00c0ef;
      border-radius: 5px;
      -moz-border-radius: 5px;
-     padding: 10px;
-     width: 22.8%;
+     padding: 15px;
+     width: 22.6%;
      height: 140px;
-     margin: 0px 32px 15px 0px;
+     margin: 0px 34px 15px 0px;
  }
 #stats4{
       background: #0073b7;
       border-radius: 5px;
       -moz-border-radius: 5px;
       padding: 10px;
-      width: 22.8%;
+      width: 22.6%;
       height: 140px;
 }
+#statsdet{
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFF;
+}
+#headerdisc{
+    font-size: 13px;
+    color: #ccc;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 17px 0px;
+    text-align: center;
+}
+
+
 /*************New Styles**************/
 
 
@@ -1706,9 +1722,13 @@ header .nav.nav-pills > li > a:hover, header .nav.nav-pills > li > a:focus{
 }
 
 .today-datas li .datas-text{
-	font-size: 12px;
+	/*font-size: 12px;
 	padding: 7px 0px 0px 0px;
-	font-weight: normal;
+	font-weight: normal;*/
+    padding: 7px 0px 0px 0px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #FFF;
 }
 
 /* Profile */

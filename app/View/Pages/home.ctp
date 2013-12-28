@@ -91,22 +91,21 @@
                         <div><span id="todayspark1" class="spark"></span></div>
                         <!-- Text --
                         <div class="datas-text">12,000 visitors/day</div>-->
-
-                        <div class="mcol-left">
-                            <div id="pie-chart4"></div>
-                        </div>
-                        <div class="mcol-right">
-                            <!-- Number of visitors -->
-                            <p><a href="#">7000</a> <em>visits</em></p>
-                        </div>
+                        <div><span id="todayspark3" class="spark"></span></div>
+                        <div class="datas-text">15.66% Bounce Rate</div>
                     </li>
                     <li id="stats2" class="col-sm-2">
                         <div><span id="todayspark2" class="spark"></span></div>
                         <div class="datas-text">30,000 Pageviews</div>
                     </li>
                     <li id="stats3" class="col-sm-2">
-                        <div><span id="todayspark3" class="spark"></span></div>
-                        <div class="datas-text">15.66% Bounce Rate</div>
+                        <div class="mcol-left">
+                            <div id="pie-chart4"></div>
+                        </div>
+                        <div class="mcol-right">
+                            <!-- Number of visitors -->
+                            <p class="datas-text">7000 <em>visits</em></p>
+                        </div>
                     </li>
                     <li id="stats4" class="col-sm-2">
                         <div><span id="todayspark4" class="spark"></span></div>
