@@ -12,7 +12,7 @@ PRIMARY KEY (`id`)
 );
 
 /* Documents Types Tales: Proforma */
-create table if not exists `submit_Locations`(
+create table if not exists `office_locations`(
 `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
 `name` VARCHAR(50),
 `Creation_date`  datetime,
@@ -39,19 +39,19 @@ PRIMARY KEY (`id`)
 create table if not exists `idf_submissions`(
 `id`  int(11) unsigned NOT NULL AUTO_INCREMENT,
 `Creation_date`  datetime,
-`idf_Received_date` VARCHAR(50) DEFAULT NULL,
+`idf_Received_date` datetime,
 `idf_number` VARCHAR(50) DEFAULT NULL,
 `document_type_id` int(11) unsigned NOT NULL,
-`submit_Location_id` int(11) unsigned NOT NULL,
+`office_location_id` int(11) unsigned NOT NULL,
 `no_of_partials` VARCHAR(50) DEFAULT NULL,
-`importer` VARCHAR(30) DEFAULT NULL,
+`importer` VARCHAR(100) DEFAULT NULL,
 `InvoiceNo` VARCHAR(50) DEFAULT NULL,
 `user_id`   int(11) unsigned NOT NULL ,
 `site_id` int(11) unsigned NOT NULL ,
 `remarks` VARCHAR(50) DEFAULT NULL,
 PRIMARY KEY (`id`),
 CONSTRAINT `fk_idfs_docT_id` FOREIGN KEY (`document_type_id`) REFERENCES `document_types` (`id`),
-CONSTRAINT `fk_idfs_subloc_id` FOREIGN KEY (`submit_Location_id`) REFERENCES `submit_Locations` (`id`),
+CONSTRAINT `fk_idfs_offloc_id` FOREIGN KEY (`office_location_id`) REFERENCES `office_locations` (`id`),
 CONSTRAINT `fk_idfs_user_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`),
 CONSTRAINT `fk_idfs_site_id` FOREIGN KEY (`site_id`) REFERENCES `sites` (`id`)
 );

@@ -4,7 +4,7 @@ App::uses('AppModel', 'Model');
  * IdfSubmission Model
  *
  * @property DocumentType $DocumentType
- * @property SubmitLocation $SubmitLocation
+ * @property OfficeLocation $OfficeLocation
  * @property User $User
  * @property Site $Site
  */
@@ -26,7 +26,7 @@ class IdfSubmission extends AppModel {
 				//'on' => 'create', // Limit validation to 'create' or 'update' operations
 			),
 		),
-		'submit_Location_id' => array(
+		'office_location_id' => array(
 			'numeric' => array(
 				'rule' => array('numeric'),
 				//'message' => 'Your custom message here',
@@ -73,9 +73,9 @@ class IdfSubmission extends AppModel {
 			'fields' => '',
 			'order' => ''
 		),
-		'SubmitLocation' => array(
-			'className' => 'SubmitLocation',
-			'foreignKey' => 'submit_Location_id',
+		'OfficeLocation' => array(
+			'className' => 'OfficeLocation',
+			'foreignKey' => 'office_location_id',
 			'conditions' => '',
 			'fields' => '',
 			'order' => ''

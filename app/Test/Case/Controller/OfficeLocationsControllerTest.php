@@ -1,11 +1,11 @@
 <?php
-App::uses('IdfSubmissionsController', 'Controller');
+App::uses('OfficeLocationsController', 'Controller');
 
 /**
- * IdfSubmissionsController Test Case
+ * OfficeLocationsController Test Case
  *
  */
-class IdfSubmissionsControllerTest extends ControllerTestCase {
+class OfficeLocationsControllerTest extends ControllerTestCase {
 
 /**
  * Fixtures
@@ -13,9 +13,10 @@ class IdfSubmissionsControllerTest extends ControllerTestCase {
  * @var array
  */
 	public $fixtures = array(
+		'app.office_location',
 		'app.idf_submission',
 		'app.document_type',
-		'app.office_location',
+		'app.submit_location',
 		'app.user',
 		'app.site'
 	);

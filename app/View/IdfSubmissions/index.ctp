@@ -7,7 +7,7 @@
 			<th><?php echo $this->Paginator->sort('idf_Received_date'); ?></th>
 			<th><?php echo $this->Paginator->sort('idf_number'); ?></th>
 			<th><?php echo $this->Paginator->sort('document_type_id'); ?></th>
-			<th><?php echo $this->Paginator->sort('submit_Location_id'); ?></th>
+			<th><?php echo $this->Paginator->sort('office_location_id'); ?></th>
 			<th><?php echo $this->Paginator->sort('no_of_partials'); ?></th>
 			<th><?php echo $this->Paginator->sort('importer'); ?></th>
 			<th><?php echo $this->Paginator->sort('InvoiceNo'); ?></th>
@@ -26,7 +26,7 @@
 			<?php echo $this->Html->link($idfSubmission['DocumentType']['name'], array('controller' => 'document_types', 'action' => 'view', $idfSubmission['DocumentType']['id'])); ?>
 		</td>
 		<td>
-			<?php echo $this->Html->link($idfSubmission['SubmitLocation']['name'], array('controller' => 'submit_locations', 'action' => 'view', $idfSubmission['SubmitLocation']['id'])); ?>
+			<?php echo $this->Html->link($idfSubmission['OfficeLocation']['name'], array('controller' => 'office_locations', 'action' => 'view', $idfSubmission['OfficeLocation']['id'])); ?>
 		</td>
 		<td><?php echo h($idfSubmission['IdfSubmission']['no_of_partials']); ?>&nbsp;</td>
 		<td><?php echo h($idfSubmission['IdfSubmission']['importer']); ?>&nbsp;</td>
@@ -66,8 +66,8 @@
 		<li><?php echo $this->Html->link(__('New Idf Submission'), array('action' => 'add')); ?></li>
 		<li><?php echo $this->Html->link(__('List Document Types'), array('controller' => 'document_types', 'action' => 'index')); ?> </li>
 		<li><?php echo $this->Html->link(__('New Document Type'), array('controller' => 'document_types', 'action' => 'add')); ?> </li>
-		<li><?php echo $this->Html->link(__('List Submit Locations'), array('controller' => 'submit_locations', 'action' => 'index')); ?> </li>
-		<li><?php echo $this->Html->link(__('New Submit Location'), array('controller' => 'submit_locations', 'action' => 'add')); ?> </li>
+		<li><?php echo $this->Html->link(__('List Office Locations'), array('controller' => 'office_locations', 'action' => 'index')); ?> </li>
+		<li><?php echo $this->Html->link(__('New Office Location'), array('controller' => 'office_locations', 'action' => 'add')); ?> </li>
 		<li><?php echo $this->Html->link(__('List Users'), array('controller' => 'users', 'action' => 'index')); ?> </li>
 		<li><?php echo $this->Html->link(__('New User'), array('controller' => 'users', 'action' => 'add')); ?> </li>
 		<li><?php echo $this->Html->link(__('List Sites'), array('controller' => 'sites', 'action' => 'index')); ?> </li>

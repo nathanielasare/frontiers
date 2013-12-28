@@ -56,10 +56,10 @@ class IdfSubmissionsController extends AppController {
 			}
 		}
 		$documentTypes = $this->IdfSubmission->DocumentType->find('list');
-		$submitLocations = $this->IdfSubmission->SubmitLocation->find('list');
+		$officeLocations = $this->IdfSubmission->OfficeLocation->find('list');
 		$users = $this->IdfSubmission->User->find('list');
 		$sites = $this->IdfSubmission->Site->find('list');
-		$this->set(compact('documentTypes', 'submitLocations', 'users', 'sites'));
+		$this->set(compact('documentTypes', 'officeLocations', 'users', 'sites'));
 	}
 
 /**
@@ -85,10 +85,10 @@ class IdfSubmissionsController extends AppController {
 			$this->request->data = $this->IdfSubmission->find('first', $options);
 		}
 		$documentTypes = $this->IdfSubmission->DocumentType->find('list');
-		$submitLocations = $this->IdfSubmission->SubmitLocation->find('list');
+		$officeLocations = $this->IdfSubmission->OfficeLocation->find('list');
 		$users = $this->IdfSubmission->User->find('list');
 		$sites = $this->IdfSubmission->Site->find('list');
-		$this->set(compact('documentTypes', 'submitLocations', 'users', 'sites'));
+		$this->set(compact('documentTypes', 'officeLocations', 'users', 'sites'));
 	}
 
 /**

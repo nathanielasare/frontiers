@@ -26,9 +26,9 @@
 			<?php echo $this->Html->link($idfSubmission['DocumentType']['name'], array('controller' => 'document_types', 'action' => 'view', $idfSubmission['DocumentType']['id'])); ?>
 			&nbsp;
 		</dd>
-		<dt><?php echo __('Submit Location'); ?></dt>
+		<dt><?php echo __('Office Location'); ?></dt>
 		<dd>
-			<?php echo $this->Html->link($idfSubmission['SubmitLocation']['name'], array('controller' => 'submit_locations', 'action' => 'view', $idfSubmission['SubmitLocation']['id'])); ?>
+			<?php echo $this->Html->link($idfSubmission['OfficeLocation']['name'], array('controller' => 'office_locations', 'action' => 'view', $idfSubmission['OfficeLocation']['id'])); ?>
 			&nbsp;
 		</dd>
 		<dt><?php echo __('No Of Partials'); ?></dt>
@@ -72,8 +72,8 @@
 		<li><?php echo $this->Html->link(__('New Idf Submission'), array('action' => 'add')); ?> </li>
 		<li><?php echo $this->Html->link(__('List Document Types'), array('controller' => 'document_types', 'action' => 'index')); ?> </li>
 		<li><?php echo $this->Html->link(__('New Document Type'), array('controller' => 'document_types', 'action' => 'add')); ?> </li>
-		<li><?php echo $this->Html->link(__('List Submit Locations'), array('controller' => 'submit_locations', 'action' => 'index')); ?> </li>
-		<li><?php echo $this->Html->link(__('New Submit Location'), array('controller' => 'submit_locations', 'action' => 'add')); ?> </li>
+		<li><?php echo $this->Html->link(__('List Office Locations'), array('controller' => 'office_locations', 'action' => 'index')); ?> </li>
+		<li><?php echo $this->Html->link(__('New Office Location'), array('controller' => 'office_locations', 'action' => 'add')); ?> </li>
 		<li><?php echo $this->Html->link(__('List Users'), array('controller' => 'users', 'action' => 'index')); ?> </li>
 		<li><?php echo $this->Html->link(__('New User'), array('controller' => 'users', 'action' => 'add')); ?> </li>
 		<li><?php echo $this->Html->link(__('List Sites'), array('controller' => 'sites', 'action' => 'index')); ?> </li>
