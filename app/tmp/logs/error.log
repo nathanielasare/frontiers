@@ -1537,3 +1537,2747 @@ Request URL: /frontiers/js/jquery.uniform.min.js
 Stack Trace:
 #0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-12-27 15:44:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 15:44:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 15:55:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 15:55:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 16:24:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 16:25:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 21:55:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 21:55:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 21:56:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 21:56:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:06:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:06:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:06:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:06:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:07:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:07:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:13:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:13:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:14:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:14:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:15:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:15:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:46:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:46:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:54:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 22:54:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 23:08:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 23:08:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 23:18:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-27 23:18:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:18:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:18:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:19:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:19:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:24:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:24:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:27:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:27:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:28:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:28:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:29:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:29:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:30:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:30:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:41:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:41:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:41:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:41:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:42:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:42:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:42:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:42:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:42:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:42:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:43:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:43:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:44:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:44:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:44:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:44:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:45:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:45:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:52:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:52:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:57:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 06:57:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:04:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:04:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:07:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:10:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:10:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:11:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:11:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:11:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:11:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:11:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:11:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:11:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:11:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:11:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:11:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:14:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:14:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:14:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:16:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:16:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:16:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:17:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:17:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:17:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:18:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:18:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:18:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:24:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:24:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:24:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:25:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:25:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:25:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:25:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:25:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:25:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:59:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:59:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 07:59:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:00:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:00:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:00:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:01:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:01:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:01:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:01:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:01:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:01:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:01:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:01:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:01:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:02:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:02:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:02:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:02:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:02:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:02:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:03:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:03:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:03:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:04:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:04:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:04:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:05:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:05:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:05:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:05:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:05:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:05:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:06:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:06:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:06:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:06:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:06:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:06:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:10:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:10:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:11:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:54:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:54:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:54:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:58:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:58:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 08:58:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:34:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:34:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:34:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:38:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:38:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:38:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:38:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:38:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:38:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:39:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:39:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:39:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:39:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:39:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:39:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:40:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:40:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:40:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:41:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:41:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:41:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:43:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:43:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 09:43:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:10:04 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'cakeuser\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /frontiers/IdfSubmissions
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(3474): ConnectionManager::getDataSource('default')
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1126): Model->setDataSource('default')
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(3496): Model->setSource('idf_submissions')
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): Model->getDataSource()
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/IdfSubmissionsController.php(25): PaginatorComponent->paginate()
+#9 [internal function]: IdfSubmissionsController->index()
+#10 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(IdfSubmissionsController), Array)
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(IdfSubmissionsController), Object(CakeRequest), Object(CakeResponse))
+#13 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-12-28 10:10:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:10:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:20:25 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'cakeuser\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /frontiers/IdfSubmissions
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(3474): ConnectionManager::getDataSource('default')
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1126): Model->setDataSource('default')
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(3496): Model->setSource('idf_submissions')
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): Model->getDataSource()
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/IdfSubmissionsController.php(25): PaginatorComponent->paginate()
+#9 [internal function]: IdfSubmissionsController->index()
+#10 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(IdfSubmissionsController), Array)
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(IdfSubmissionsController), Object(CakeRequest), Object(CakeResponse))
+#13 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-12-28 10:20:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:20:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:21:32 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frontiers.submit_locations' doesn't exist
+Request URL: /frontiers/IdfSubmissions
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(SubmitLocation))
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1522): DboSource->fields(Object(SubmitLocation), 'SubmitLocation', '')
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1068): DboSource->generateAssociationQuery(Object(IdfSubmission), Object(SubmitLocation), 'belongsTo', 'SubmitLocation', Array, Array, false, NULL)
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): DboSource->read(Object(IdfSubmission), Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#9 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/IdfSubmissionsController.php(25): PaginatorComponent->paginate()
+#10 [internal function]: IdfSubmissionsController->index()
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(IdfSubmissionsController), Array)
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#13 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(IdfSubmissionsController), Object(CakeRequest), Object(CakeResponse))
+#14 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2013-12-28 10:21:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:21:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:25:04 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frontiers.submit_locations' doesn't exist
+Request URL: /frontiers/IdfSubmissions
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(SubmitLocation))
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1522): DboSource->fields(Object(SubmitLocation), 'SubmitLocation', '')
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1068): DboSource->generateAssociationQuery(Object(IdfSubmission), Object(SubmitLocation), 'belongsTo', 'SubmitLocation', Array, Array, false, NULL)
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): DboSource->read(Object(IdfSubmission), Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#9 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/IdfSubmissionsController.php(25): PaginatorComponent->paginate()
+#10 [internal function]: IdfSubmissionsController->index()
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(IdfSubmissionsController), Array)
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#13 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(IdfSubmissionsController), Object(CakeRequest), Object(CakeResponse))
+#14 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2013-12-28 10:25:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:25:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:26:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:26:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:27:07 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frontiers.submit_locations' doesn't exist
+Request URL: /frontiers/submitlocations
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(SubmitLocation))
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1047): DboSource->fields(Object(SubmitLocation))
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): DboSource->read(Object(SubmitLocation), Array)
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/SubmitlocationsController.php(25): PaginatorComponent->paginate()
+#9 [internal function]: SubmitLocationsController->index()
+#10 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SubmitLocationsController), Array)
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(SubmitLocationsController), Object(CakeRequest), Object(CakeResponse))
+#13 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-12-28 10:27:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:27:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:27:15 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frontiers.submit_locations' doesn't exist
+Request URL: /frontiers/submit_locations
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(SubmitLocation))
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1047): DboSource->fields(Object(SubmitLocation))
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): DboSource->read(Object(SubmitLocation), Array)
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/SubmitLocationsController.php(25): PaginatorComponent->paginate()
+#9 [internal function]: SubmitLocationsController->index()
+#10 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SubmitLocationsController), Array)
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(SubmitLocationsController), Object(CakeRequest), Object(CakeResponse))
+#13 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-12-28 10:27:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:27:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:27:21 Error: [MissingControllerException] Controller class SubmitLocationController could not be found.
+Exception Attributes: array (
+  'class' => 'SubmitLocationController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/submit_location
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:27:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:27:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:27:26 Error: [MissingControllerException] Controller class SubmitlocationController could not be found.
+Exception Attributes: array (
+  'class' => 'SubmitlocationController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/submitlocation
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:27:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:27:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:27:56 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frontiers.submit_locations' doesn't exist
+Request URL: /frontiers/submitLocations
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(SubmitLocation))
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1047): DboSource->fields(Object(SubmitLocation))
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): DboSource->read(Object(SubmitLocation), Array)
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/SubmitLocationsController.php(25): PaginatorComponent->paginate()
+#9 [internal function]: SubmitLocationsController->index()
+#10 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SubmitLocationsController), Array)
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(SubmitLocationsController), Object(CakeRequest), Object(CakeResponse))
+#13 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-12-28 10:27:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:27:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:29:30 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frontiers.submit_locations' doesn't exist
+Request URL: /frontiers/submitLocations
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(SubmitLocation))
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1047): DboSource->fields(Object(SubmitLocation))
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): DboSource->read(Object(SubmitLocation), Array)
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/SubmitLocationsController.php(25): PaginatorComponent->paginate()
+#9 [internal function]: SubmitLocationsController->index()
+#10 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SubmitLocationsController), Array)
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(SubmitLocationsController), Object(CakeRequest), Object(CakeResponse))
+#13 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-12-28 10:29:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:29:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:31:31 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frontiers.submit_locations' doesn't exist
+Request URL: /frontiers/SubmitLocations
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(SubmitLocation))
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1047): DboSource->fields(Object(SubmitLocation))
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): DboSource->read(Object(SubmitLocation), Array)
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/SubmitLocationsController.php(25): PaginatorComponent->paginate()
+#9 [internal function]: SubmitLocationsController->index()
+#10 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SubmitLocationsController), Array)
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(SubmitLocationsController), Object(CakeRequest), Object(CakeResponse))
+#13 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-12-28 10:31:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:31:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:32:40 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frontiers.submit_locations' doesn't exist
+Request URL: /frontiers/SubmitLocations
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(SubmitLocation))
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1047): DboSource->fields(Object(SubmitLocation))
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): DboSource->read(Object(SubmitLocation), Array)
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/SubmitLocationsController.php(25): PaginatorComponent->paginate()
+#9 [internal function]: SubmitLocationsController->index()
+#10 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SubmitLocationsController), Array)
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(SubmitLocationsController), Object(CakeRequest), Object(CakeResponse))
+#13 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-12-28 10:32:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:32:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:32:49 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frontiers.submit_locations' doesn't exist
+Request URL: /frontiers/IdfSubmissions
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(SubmitLocation))
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1522): DboSource->fields(Object(SubmitLocation), 'SubmitLocation', '')
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1068): DboSource->generateAssociationQuery(Object(IdfSubmission), Object(SubmitLocation), 'belongsTo', 'SubmitLocation', Array, Array, false, NULL)
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): DboSource->read(Object(IdfSubmission), Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#9 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/IdfSubmissionsController.php(25): PaginatorComponent->paginate()
+#10 [internal function]: IdfSubmissionsController->index()
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(IdfSubmissionsController), Array)
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#13 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(IdfSubmissionsController), Object(CakeRequest), Object(CakeResponse))
+#14 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2013-12-28 10:32:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:32:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:42:29 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frontiers.submit_locations' doesn't exist
+Request URL: /frontiers/IdfSubmissions
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(SubmitLocation))
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1522): DboSource->fields(Object(SubmitLocation), 'SubmitLocation', '')
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1068): DboSource->generateAssociationQuery(Object(IdfSubmission), Object(SubmitLocation), 'belongsTo', 'SubmitLocation', Array, Array, false, NULL)
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): DboSource->read(Object(IdfSubmission), Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#9 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/IdfSubmissionsController.php(25): PaginatorComponent->paginate()
+#10 [internal function]: IdfSubmissionsController->index()
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(IdfSubmissionsController), Array)
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#13 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(IdfSubmissionsController), Object(CakeRequest), Object(CakeResponse))
+#14 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2013-12-28 10:42:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:42:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:43:21 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frontiers.submit_locations' doesn't exist
+Request URL: /frontiers/SubmitLocations
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(SubmitLocation))
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1047): DboSource->fields(Object(SubmitLocation))
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): DboSource->read(Object(SubmitLocation), Array)
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/SubmitLocationsController.php(25): PaginatorComponent->paginate()
+#9 [internal function]: SubmitLocationsController->index()
+#10 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SubmitLocationsController), Array)
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(SubmitLocationsController), Object(CakeRequest), Object(CakeResponse))
+#13 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-12-28 10:43:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:43:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:43:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:43:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:44:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:44:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:47:51 Error: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frontiers.submit_locations' doesn't exist
+Request URL: /frontiers/IdfSubmissions
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/Database/Mysql.php(331): DboSource->_execute('SHOW FULL COLUM...')
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1358): Mysql->describe(Object(SubmitLocation))
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(2293): Model->schema()
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1522): DboSource->fields(Object(SubmitLocation), 'SubmitLocation', '')
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Datasource/DboSource.php(1068): DboSource->generateAssociationQuery(Object(IdfSubmission), Object(SubmitLocation), 'belongsTo', 'SubmitLocation', Array, Array, false, NULL)
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): DboSource->read(Object(IdfSubmission), Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#9 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/IdfSubmissionsController.php(25): PaginatorComponent->paginate()
+#10 [internal function]: IdfSubmissionsController->index()
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(IdfSubmissionsController), Array)
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#13 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(IdfSubmissionsController), Object(CakeRequest), Object(CakeResponse))
+#14 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2013-12-28 10:47:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 10:47:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:03:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:03:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:03:55 Error: [MissingTableException] Table idf_submissions for model IdfSubmission was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'idf_submissions',
+  'class' => 'IdfSubmission',
+  'ds' => 'default',
+)
+Request URL: /frontiers/idf_submissions
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(3496): Model->setSource('idf_submissions')
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): Model->getDataSource()
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#4 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/IdfSubmissionsController.php(25): PaginatorComponent->paginate()
+#5 [internal function]: IdfSubmissionsController->index()
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(IdfSubmissionsController), Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(IdfSubmissionsController), Object(CakeRequest), Object(CakeResponse))
+#9 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-12-28 11:03:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:03:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:04:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:04:18 Error: [MissingTableException] Table document_types for model DocumentType was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'document_types',
+  'class' => 'DocumentType',
+  'ds' => 'default',
+)
+Request URL: /frontiers/idf_submissions/add
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(3496): Model->setSource('document_types')
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1355): Model->getDataSource()
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1447): Model->schema()
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(1434): Model->hasField('title', false)
+#4 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(880): Model->hasField(Array)
+#5 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(3067): Model->__get('displayField')
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2932): Model->_findList('before', Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2867): Model->buildQuery('list', Array)
+#8 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/IdfSubmissionsController.php(58): Model->find('list')
+#9 [internal function]: IdfSubmissionsController->add()
+#10 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(IdfSubmissionsController), Array)
+#11 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#12 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(IdfSubmissionsController), Object(CakeRequest), Object(CakeResponse))
+#13 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-12-28 11:04:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:04:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:04:19 Error: [MissingActionException] Action IdfSubmissionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'IdfSubmissionsController',
+  'action' => 'img',
+)
+Request URL: /frontiers/idf_submissions/img/favicon/favicon.png
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(IdfSubmissionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-28 11:04:21 Error: [MissingActionException] Action IdfSubmissionsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'IdfSubmissionsController',
+  'action' => 'img',
+)
+Request URL: /frontiers/idf_submissions/img/user2.png
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(IdfSubmissionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-12-28 11:09:56 Error: [MissingTableException] Table idf_submissions for model IdfSubmission was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'idf_submissions',
+  'class' => 'IdfSubmission',
+  'ds' => 'default',
+)
+Request URL: /frontiers/idf_submissions
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(3496): Model->setSource('idf_submissions')
+#1 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2900): Model->getDataSource()
+#2 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Model/Model.php(2872): Model->_readDataSource('all', Array)
+#3 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#4 /usr/local/zend/apache2/htdocs/frontiers/app/Controller/IdfSubmissionsController.php(25): PaginatorComponent->paginate()
+#5 [internal function]: IdfSubmissionsController->index()
+#6 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(IdfSubmissionsController), Array)
+#7 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#8 /usr/local/zend/apache2/htdocs/frontiers/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(IdfSubmissionsController), Object(CakeRequest), Object(CakeResponse))
+#9 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-12-28 11:09:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:09:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:10:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:10:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:14:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:14:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:17:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:17:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:18:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:18:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:18:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:18:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:18:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:18:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:19:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:19:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:38:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:38:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:42:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:42:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:42:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:42:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:43:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:43:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:44:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:44:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:44:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:44:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:47:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:47:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:48:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:48:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:53:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 11:53:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 12:00:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 12:00:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 12:00:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 12:09:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 12:09:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 12:10:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 12:10:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 12:12:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 12:12:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 12:14:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/css/uniform.default.css
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-12-28 12:14:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /frontiers/js/jquery.uniform.min.js
+Stack Trace:
+#0 /usr/local/zend/apache2/htdocs/frontiers/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
