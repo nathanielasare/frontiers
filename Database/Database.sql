@@ -56,9 +56,9 @@ CONSTRAINT `fk_idfs_user_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`),
 CONSTRAINT `fk_idfs_site_id` FOREIGN KEY (`site_id`) REFERENCES `sites` (`id`)
 );
 
+/*
 
-
-  /****** Script for SelectTopNRows command from SSMS  ******/
+   Script for SelectTopNRows command from SSMS
 SELECT TOP 1000 [SubmissionID]
       ,[CreationDate]
       ,[IDFDateRecvd]
@@ -83,6 +83,7 @@ SELECT TOP 1000 [SubmissionID]
   */
 
   /*IDF Collection*/
+  /*
   SELECT TOP 1000 [CollectionID]
       ,[CreationDate]
       ,[ImportID]
@@ -97,3 +98,4 @@ SELECT TOP 1000 [SubmissionID]
   FROM [AfriLinkDB].[dbo].[FCVRCollection]
 
   DefintionTable
+  */
