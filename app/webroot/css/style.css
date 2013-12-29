@@ -68,7 +68,24 @@ h1,h2,h3,h4,h5,h6{
     padding: 17px 0px;
     text-align: center;
 }
-
+#idfsubwidget .nav-tabs{
+    border-bottom: 0px;
+}
+#idfsubwidget .nav>li>a{
+    position: relative;
+    display: block;
+    padding: 3px 15px;
+    color: #000;
+    background-color: #999;
+    border-radius: 3px;
+    text-shadow: none;
+    font-weight: normal;
+}
+#idfsubwidget .nav>li.active>a{
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
 
 /*************New Styles**************/
 

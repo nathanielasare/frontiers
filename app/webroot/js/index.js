@@ -1,4 +1,4 @@
-function showmessage(){
+/*function showmessage(){
 	$.gritter.add({
 		title: 'Howdy User!',
 		text: 'This will fade out after a certain amount of time. Cum penatibus et <a href="#" style="color:#ccc">magnis dis parturient</a> montes, nascetur ridiculus mus.',
@@ -6,10 +6,12 @@ function showmessage(){
 		sticky: false,
 		time: ''
 	});
-}
+}*/
+
 $(function () {
 
-    setTimeout(showmessage,2000);
+    $('#datatable').dataTable({"sPaginationType": "full_numbers"});
+    //setTimeout(showmessage,2000);
     $( "#inline-datepicker" ).datepicker();
     /* Bar Chart starts */
 

@@ -15,6 +15,7 @@
     <?php
 
         echo $this->Html->css('bootstrap');
+        echo $this->Html->css('dataTables.bootstrap');
         echo $this->Html->css('font-awesome');
         echo $this->Html->css('jquery-ui-1.9.2.custom.min');
         echo $this->Html->css('fullcalendar');
@@ -24,10 +25,14 @@
         echo $this->Html->css('jquery.cleditor');
         echo $this->Html->css('uniform.default');
         echo $this->Html->css('daterangepicker-bs3');
+        echo $this->Html->css('bootstrap-switch');
+
 
         echo $this->Html->css('style');
         echo $this->Html->css('widgets');
         echo $this->Html->css('jquery.gritter');
+
+
 
     ?>
 
@@ -273,6 +278,14 @@
         <li><a href="#"><i class="fa fa-magic"></i> <span>Valuation</span></a></li>
         <li><a href="#"><i class="fa fa-edit"></i> <span>Quality Assurance</span></a></li>
         <li><a href="#"><i class="fa fa-calendar"></i> <span>Printing</span></a></li>
+        <li class="has_sub"><a href="#"><i class="fa fa-file-text"></i> <span>Setup</span> <span class="pull-right"><i class="fa fa-chevron-left"></i></span></a>
+            <ul>
+                <li><a href="#"><i class="fa fa-bookmark"></i> Sites</a></li>
+                <li><a href="#"><i class="fa fa-bookmark"></i> Users</a></li>
+                <li><a href="#"><i class="fa fa-bookmark"></i> Office Location</a></li>
+                <li><a href="#"><i class="fa fa-bookmark"></i> Document Type</a></li>
+            </ul>
+        </li>
         <!--<li class="has_sub"><a href="#"><i class="fa fa-sitemap"></i> <span>Extra Pages #1</span> <span class="pull-right"><i class="fa fa-chevron-left"></i></span></a>
             <ul>
                 <li><a href="post.html">Post</a></li>
@@ -358,14 +371,14 @@
 
 <!-- JS -->
 
-<?php echo $this->Html->script('bootstrap'); ?>
+
 <?php echo $this->Html->script('jquery'); ?> <!-- jQuery -->
+<?php echo $this->Html->script('bootstrap'); ?>
 <?php echo $this->Html->script('jquery-ui-1.9.2.custom.min'); ?> <!-- jQuery UI -->
 <?php echo $this->Html->script('fullcalendar.min'); ?> <!-- Full Google Calendar - Calendar -->
 <?php echo $this->Html->script('jquery.rateit.min'); ?> <!-- RateIt - Star rating -->
 <?php echo $this->Html->script('jquery.prettyPhoto'); ?> <!-- prettyPhoto -->
 
-<?php echo $this->Html->script('jquery.uniform.min.js'); ?>  <!-- jQuery Uniform -->
 <!-- Morris JS -->
 <?php echo $this->Html->script('raphael-min'); ?>
 <?php echo $this->Html->script('morris.min'); ?>
@@ -388,6 +401,7 @@
 <!-- Daterangepicker -->
 <?php echo $this->Html->script('moment.min'); ?>
 <?php echo $this->Html->script('daterangepicker'); ?>
+<?php echo $this->Html->script('datatables/js/jquery.dataTables.js'); ?>
 
 <?php echo $this->Html->script('sparklines'); ?> <!-- Sparklines -->
 <?php echo $this->Html->script('jquery.gritter.min'); ?> <!-- jQuery Gritter -->
@@ -403,6 +417,9 @@
 <?php echo $this->Html->script('charts'); ?> <!-- Charts & Graphs -->
 
 <?php echo $this->Html->script('index'); ?> <!-- Index Javascripts -->
+
+
+
 <!--
 <script src="js/jquery.js"></script> <!-- jQuery --
 <script src="js/jquery-ui-1.9.2.custom.min.js"></script> <!-- jQuery UI --
@@ -420,6 +437,7 @@
 <script src="js/jquery.flot.resize.js"></script>
 <script src="js/jquery.flot.pie.js"></script>
 <script src="js/jquery.flot.stack.js"></script>
+
 
 <!-- jQuery Notification - Noty --
 <script src="js/jquery.noty.js"></script> <!-- jQuery Notify --

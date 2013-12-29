@@ -21,8 +21,14 @@ class IdfSubmissionsController extends AppController {
  * @return void
  */
 	public function index() {
+
+        $documentTypes = $this->IdfSubmission->DocumentType->find('list');
+        $officeLocations = $this->IdfSubmission->OfficeLocation->find('list');
+        $users = $this->IdfSubmission->User->find('list');
+        $sites = $this->IdfSubmission->Site->find('list');
 		$this->IdfSubmission->recursive = 0;
-		$this->set('idfSubmissions', $this->Paginator->paginate());
+		$this->set('idfSubmissions',$this->Paginator->paginate());
+        $this->set(compact('documentTypes', 'officeLocations', 'users', 'sites'));
 	}
 
 /**
