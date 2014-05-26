@@ -222,9 +222,37 @@ CREATE TABLE IF NOT EXISTS `table_name` (
 );
 
 
+CREATE TABLE IF NOT EXISTS `document_types`(
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(50) DEFAULT NULLCOMMENT 'Bill Of Lading, Airway Bill,inLand' ,
+  `active` tinyint(1) DEFAULT NULL,
+  `Creation_date` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`)
+);
 
-/* Collection */
+
+CREATE TABLE IF NOT EXISTS `shipping_documents`(
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(50) DEFAULT NULL COMMENT 'Bill Of Lading, Packing List,Invoice, Freights Certificates' ,
+  `active` tinyint(1) DEFAULT NULL,
+  `Creation_date` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`)
+);
+
+
+CREATE TABLE IF NOT EXISTS `consignement_types`(
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(50) DEFAULT NULL COMMENT 'Air, Sea, InLand, Rail' ,
+  `active` tinyint(1) DEFAULT NULL,
+  `Creation_date` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`)
+);
+
+
+/* Coll
+ection */
 /*
+
 idfNumber
 Document Types
 No Of Patials
@@ -242,4 +270,28 @@ Original Copy Contact Number
 Original Collected Date
 
 Paymentsid
+
+*/
+
+/*
+Document management
+id
+name
+idf_number fk
+file_url
+file_type
+version
+description
+
+
+Doc_access_rights
+id 
+doc_man_id fk
+version
+rwx
+
+usr_file_level
+doc_man_id
+user_id
+user_access -> rwx if read-> disable download with JS
 */
