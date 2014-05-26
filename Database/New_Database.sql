@@ -64,6 +64,14 @@ PRIMARY KEY (`id`),
 CONSTRAINT `fk_usrtyp_usr_id` FOREIGN KEY (`office_location_id`) REFERENCES `office_locations` (`id`)
 );
 
+CREATE TABLE IF NOT EXISTS `consignement_types`(
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(50) DEFAULT NULL COMMENT 'Air, Sea, InLand, Rail' ,
+  `active` tinyint(1) DEFAULT NULL,
+  `Creation_date` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`)
+);
+
 
 CREATE TABLE IF NOT EXISTS `user_types` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
@@ -239,14 +247,6 @@ CREATE TABLE IF NOT EXISTS `shipping_documents`(
   PRIMARY KEY (`id`)
 );
 
-
-CREATE TABLE IF NOT EXISTS `consignement_types`(
-  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
-  `name` varchar(50) DEFAULT NULL COMMENT 'Air, Sea, InLand, Rail' ,
-  `active` tinyint(1) DEFAULT NULL,
-  `Creation_date` datetime DEFAULT NULL,
-  PRIMARY KEY (`id`)
-);
 
 
 /* Coll
