@@ -1,0 +1,35 @@
+msgid "hello" 
+msgstr "Bonjour"
+
+msgid "welcome"
+msgstr "Bienvenu"
+
+msgid "reception"
+msgstr "Réception"
+
+msgid "declaration"
+msgstr "Déclaration"
+
+msgid "classification"
+msgstr "la Classification"
+
+msgid "valuation"
+msgstr "évaluation"
+
+msgid "quality-assurance"
+msgstr "Assurance de la qualité"
+
+msgid "printing"
+msgstr "Impression"
+
+msgid "company_name"
+msgstr "SYSTÈME D'INSPECTION DE DESTINATION"
+
+msgid "comp_name"
+msgstr "Inspection à destination"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

@@ -64,7 +64,7 @@ class DATABASE_CONFIG {
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => 'localhost:8889',
+		'host' => 'localhost',
 		'login' => 'cakeuser',
 		'password' => 'cakeuser',
 		'database' => 'frontiers',

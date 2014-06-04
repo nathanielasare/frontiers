@@ -1,0 +1,32 @@
+msgid "hello" 
+msgstr "Hello"
+
+msgid "welcome"
+msgstr "Welcome"
+
+msgid "reception"
+msgstr "Reception"
+
+msgid "declaration"
+msgstr "Declaration"
+
+msgid "classification"
+msgstr "Classification"
+
+msgid "valuation"
+msgstr "Valuation"
+
+msgid "quality-assurance"
+msgstr "Quality Assurance"
+
+msgid "printing"
+msgstr "Printing"
+
+msgid "company_name"
+msgstr "Africa Link Inspection Company"
+
+msgid "comp_name"
+msgstr "DESTINATION INSPECTION"
+
+msgid ""
+msgstr ""

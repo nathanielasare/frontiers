@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Application level Controller
  *
@@ -18,7 +19,6 @@
  * @since         CakePHP(tm) v 0.2.9
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
-
 App::uses('Controller', 'Controller');
 
 /**
@@ -31,4 +31,34 @@ App::uses('Controller', 'Controller');
  * @link		http://book.cakephp.org/2.0/en/controllers.html#the-app-controller
  */
 class AppController extends Controller {
+
+    var $components = array('Session', 'Cookie'); /*
+      public function beforeFilter() {
+      $locale = Configure::read('Config.language');
+      if ($locale && file_exists(APP . 'View' . DS . $locale . DS . $this->viewPath)) {
+      // e.g. use /app/View/fra/Pages/tos.ctp instead of /app/View/Pages/tos.ctp
+      $this->viewPath = $locale . DS . $this->viewPath;
+
+      $this->Session->setFlash(__('Language. '.$locale));
+      }
+      else{
+      $this->Session->setFlash(__('Error in Language. '.$locale));
+
+      }
+      } */
+
+    function beforeFilter() {
+
+        $this->_setLanguage();
+    }
+
+    function _setLanguage() {
+        if ($this->Cookie->read('lang') && !$this->Session->check('Config.language')) {
+            $this->Session->write('Config.language', $this->Cookie->read('lang'));
+        } else if (isset($this->params['language']) && ($this->params['language'] != $this->Session->read('Config.language'))) {
+            $this->Session->write('Config.language', $this->params['language']);
+            $this->Cookie->write('lang', $this->params['language'], false, '20 days');
+        }
+    }
+
 }
