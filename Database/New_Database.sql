@@ -67,7 +67,7 @@ CONSTRAINT `fk_usrtyp_usr_id` FOREIGN KEY (`office_location_id`) REFERENCES `off
 CREATE TABLE IF NOT EXISTS `consignement_types`(
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(50) DEFAULT NULL COMMENT 'Air, Sea, InLand, Rail' ,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   `Creation_date` datetime DEFAULT NULL,
   PRIMARY KEY (`id`)
 );
@@ -77,7 +77,7 @@ CREATE TABLE IF NOT EXISTS `user_types` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(50) DEFAULT NULL,
   `Creation_date` datetime DEFAULT NULL,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   PRIMARY KEY (`id`)
 );
 
@@ -103,7 +103,7 @@ CREATE TABLE IF NOT EXISTS `user_credentials` (
   `password` varchar(50) DEFAULT NULL,
   `Creation_date` datetime DEFAULT NULL,
   `user_id` int(11) unsigned NOT NULL,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   PRIMARY KEY (`id`),
   CONSTRAINT `fk_usrcrd_usr_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)
 );
@@ -113,7 +113,7 @@ CREATE TABLE IF NOT EXISTS `contact_types` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(50) DEFAULT NULL,
   `Creation_date` datetime DEFAULT NULL,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   PRIMARY KEY (`id`)
 );
 
@@ -124,7 +124,7 @@ CREATE TABLE IF NOT EXISTS `user_contacts` (
   `Creation_date` datetime DEFAULT NULL,
   `user_id` int(11) unsigned NOT NULL,
   `contact_type_id` int(11) unsigned NOT NULL,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   PRIMARY KEY (`id`),
   CONSTRAINT `fk_usrcnt_usr_id` FOREIGN KEY (`user_type_id`) REFERENCES `user_types` (`id`),
   CONSTRAINT `fk_usrcnt_usr_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)
@@ -136,7 +136,7 @@ CREATE TABLE IF NOT EXISTS `user_access_levels` (
   `value` varchar(50) DEFAULT NULL,
   `Creation_date` datetime DEFAULT NULL,
   `user_id` int(11) unsigned NOT NULL,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   PRIMARY KEY (`id`),
   CONSTRAINT `fk_usrcnt_usr_id` FOREIGN KEY (`user_type_id`) REFERENCES `user_types` (`id`),
   CONSTRAINT `fk_usrcnt_usr_id` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)
@@ -149,7 +149,7 @@ CREATE TABLE IF NOT EXISTS `countries` (
   `name` varchar(50) DEFAULT NULL,
   `code` varchar(5)
   `Creation_date` datetime DEFAULT NULL,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   PRIMARY KEY (`id`)
 );
 
@@ -163,7 +163,7 @@ CREATE TABLE IF NOT EXISTS `importers` (
   `office_location_id` int(11) unsigned NOT NULL,
   `logo` varchar(20) DEFAULT NULL,
   `Creation_date` datetime DEFAULT NULL,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   PRIMARY KEY (`id`),
   CONSTRAINT `fk_imp_cntry_id` FOREIGN KEY (`country_id`) REFERENCES `countries` (`id`),
   CONSTRAINT `fk_imp_offloc_id` FOREIGN KEY (`office_location_id`) REFERENCES `office_locations` (`id`)
@@ -180,7 +180,7 @@ CREATE TABLE IF NOT EXISTS `importer_contacts` (
   `website` varchar(20) DEFAULT NULL,
   `importer_id` int(11) unsigned NOT NULL,
   `Creation_date` datetime DEFAULT NULL,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   PRIMARY KEY (`id`),
   CONSTRAINT `fk_impcnts_imp_id` FOREIGN KEY (`importer_id`) REFERENCES `importers` (`id`)
 );
@@ -192,7 +192,7 @@ CREATE TABLE IF NOT EXISTS `importer_addresses` (
   `city` varchar(50) DEFAULT NULL,
   `importer_id` int(11) unsigned NOT NULL,
   `Creation_date` datetime DEFAULT NULL,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   PRIMARY KEY (`id`),
   CONSTRAINT `fk_impaddr_imp_id` FOREIGN KEY (`importer_id`) REFERENCES `importers` (`id`)
 );
@@ -204,7 +204,7 @@ CREATE TABLE IF NOT EXISTS `table_name` (
   `user_id` int(11) unsigned NOT NULL,
   `contact_type_id` int(11) unsigned NOT NULL,
   `Creation_date` datetime DEFAULT NULL,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   PRIMARY KEY (`id`),
   CONSTRAINT `fk_table_name_id` FOREIGN KEY (`utable_name_id`) REFERENCES `table_name` (`id`)
 );
@@ -224,7 +224,7 @@ CREATE TABLE IF NOT EXISTS `table_name` (
   `user_id` int(11) unsigned NOT NULL,
   `contact_type_id` int(11) unsigned NOT NULL,
   `Creation_date` datetime DEFAULT NULL,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   PRIMARY KEY (`id`),
   CONSTRAINT `fk_usrcnt_usr_id` FOREIGN KEY (`user_type_id`) REFERENCES `user_types` (`id`)
 );
@@ -233,7 +233,7 @@ CREATE TABLE IF NOT EXISTS `table_name` (
 CREATE TABLE IF NOT EXISTS `document_types`(
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(50) DEFAULT NULLCOMMENT 'Bill Of Lading, Airway Bill,inLand' ,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   `Creation_date` datetime DEFAULT NULL,
   PRIMARY KEY (`id`)
 );
@@ -242,7 +242,7 @@ CREATE TABLE IF NOT EXISTS `document_types`(
 CREATE TABLE IF NOT EXISTS `shipping_documents`(
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(50) DEFAULT NULL COMMENT 'Bill Of Lading, Packing List,Invoice, Freights Certificates' ,
-  `active` tinyint(1) DEFAULT NULL,
+  `active` tinyint(1) DEFAULT 0,
   `Creation_date` datetime DEFAULT NULL,
   PRIMARY KEY (`id`)
 );
